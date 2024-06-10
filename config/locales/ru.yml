@@ -11,3 +11,5 @@ ru:
   label_access_filters_delete_confirmation: "Действительно удалить этот фильтр?"
   label_access_filters_unparsable_cidr: "Неправильный IP адрес: %{cidr}"
   label_access_filters_active: "Активен"
+  label_access_filters_move_up: "Вверх"
+  label_access_filters_move_down: "Вниз"
