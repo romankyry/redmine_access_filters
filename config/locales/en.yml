@@ -11,3 +11,5 @@ en:
   label_access_filters_delete_confirmation: "Really delete this filter?"
   label_access_filters_unparsable_cidr: "Incorrect CIDR: %{cidr}"
   label_access_filters_active: "Active"
+  label_access_filters_move_up: "Up"
+  label_access_filters_move_down: "Down"
