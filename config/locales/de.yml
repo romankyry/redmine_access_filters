@@ -11,6 +11,6 @@ de:
   label_access_filters_delete_confirmation: "Wollen Sie diesen Filter wirklich löschen?"
   label_access_filters_unparsable_cidr: "Inkorrekte CIDR: %{cidr}"
   label_access_filters_active: "Aktiv"
-  label_access_filters_move_up: "Omhoog"
-  label_access_filters_move_down: "Omlaag"
+  label_access_filters_move_up: "Nach oben"
+  label_access_filters_move_down: "Nach unten"
 
